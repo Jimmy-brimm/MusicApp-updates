@@ -1,0 +1,201 @@
+{
+ "build": 1792439931,
+ "version": "2026.10.20-0858",
+ "date": "2026-10-19T19:58:51.827Z",
+ "shell": 1,
+ "exeUrl": "https://github.com/Jimmy-brimm/MusicApp-updates/releases/latest/download/MusicApp.exe",
+ "files": {
+  "assets/index-4-gzhDpJ.js": {
+   "size": 434024,
+   "sha256": "33ffe20133c23b7d200401f3d126dfdcb944cda84beef7012deb572351b195c2"
+  },
+  "assets/index-C0cIrjqV.css": {
+   "size": 30061,
+   "sha256": "713da9b225b3b75ba02354d16576ea604741a6712eb5b151bb23a9fcf74dc27e"
+  },
+  "assets/lamejs-n-EL1vlk.js": {
+   "size": 168881,
+   "sha256": "46e9e0ccb23ee0d17ee1863aecbe2fbf74e54e25aa685310616a497c73073c7e"
+  },
+  "assets/sync-D6Se9Z4f.js": {
+   "size": 775844,
+   "sha256": "bf144fc87345c81c0ad24002e55340fca212bcf1b375c830d83b1c8dc3f88e39"
+  },
+  "favicon.svg": {
+   "size": 8091,
+   "sha256": "cf6540f8d105c758fffde12f994b4df27b545e20768ed169b6136446cbf6fc95"
+  },
+  "index.html": {
+   "size": 915,
+   "sha256": "b4e7c5f045d4c415bb6da71957e253c81fc025d28c8ad5203179f29fdfbde43c"
+  },
+  "samples/accordion.json": {
+   "size": 648422,
+   "sha256": "1a9be158ff982f6621e863e3f46068597c7cdf48ae37d35f1a70997ec13de11e"
+  },
+  "samples/bass-electric.json": {
+   "size": 341775,
+   "sha256": "4d8d2c8518cfa004b16d88215afff875b759d12e98968cd0420f150c8dc861a8"
+  },
+  "samples/bass-slap.json": {
+   "size": 345370,
+   "sha256": "853a90e8fa41dae6fecaabb422f9722b062bfd57273646c64babf6c05f953733"
+  },
+  "samples/bass-synth.json": {
+   "size": 387007,
+   "sha256": "be3344d16158323496bd446ac44e70c6a877f2a67a811bc4b9af6cfe4062f54e"
+  },
+  "samples/bass-upright.json": {
+   "size": 314276,
+   "sha256": "0f2b6a1f817ba7dc128625bfba3c65fd0c836b15629fc19cdeddb06e3640dbeb"
+  },
+  "samples/brass-section.json": {
+   "size": 648426,
+   "sha256": "6e1bd0c4e77542c9da90bcc1c115dc9cd0f2a077eba6f4a4d8e11b030b332ed8"
+  },
+  "samples/celesta.json": {
+   "size": 416561,
+   "sha256": "bfe3eecbf8c9bb3d6372f5fd7a680967b0b16869be172cf9f5f76b2b1bd6deeb"
+  },
+  "samples/cello.json": {
+   "size": 580169,
+   "sha256": "c9727e6d9ee50082ef69ebe288d6ac275af83bd17a359f994de35ef13b05bf22"
+  },
+  "samples/choir.json": {
+   "size": 443676,
+   "sha256": "a581640f7a0ebc428c1b1afeed5210e5e6da7088aa9e2b8c282608cd335760dc"
+  },
+  "samples/clarinet.json": {
+   "size": 546048,
+   "sha256": "3b724f525129ab86dbc4a372cf08de2eb820bb0be9e4d4cf0301dcf41e16dc5d"
+  },
+  "samples/CREDITS.txt": {
+   "size": 447,
+   "sha256": "b82cc2555e7fb508e20d5af1cad92ef17a8f9c1c4b2731f90a2b8e43f5ce4bb3"
+  },
+  "samples/flute-real.json": {
+   "size": 443671,
+   "sha256": "9f7cd60c3ff57f3c9beb3eb57678ea03e1e53f0d7fdda550aaffcf3c20bf0145"
+  },
+  "samples/french-horn.json": {
+   "size": 546051,
+   "sha256": "6005c1e53054f87c50cf19c2d0256522c4c68ac1573545d107fd502623c46b03"
+  },
+  "samples/guitar-electric.json": {
+   "size": 459741,
+   "sha256": "40588ea40a9700d734b43905ef4a1bc89cabb931e851000020695c3e209b8a2f"
+  },
+  "samples/guitar-nylon.json": {
+   "size": 390065,
+   "sha256": "fdfd37d52a88370301aee0baaa90c278a4c4e7e4c8249c660429b87ba4e09f76"
+  },
+  "samples/guitar-overdrive.json": {
+   "size": 598269,
+   "sha256": "da11db57d0ed7bd2f5d99b536dd7804d1817db6452e5b64b4094ef311ad56bde"
+  },
+  "samples/guitar-steel.json": {
+   "size": 422793,
+   "sha256": "c0e27c82af5e1e557c172b540377cffe700cadd571728561f69a54e13c2fd218"
+  },
+  "samples/harp.json": {
+   "size": 612073,
+   "sha256": "8e48ff279975f5ff16668593dd90a87fd3bb37e50841e992f03b6c8ff8c62b14"
+  },
+  "samples/harpsichord.json": {
+   "size": 609609,
+   "sha256": "bd2e110a86630aceb525cd9905a76fda11272d30127a21c7c878a80c5c11f2ea"
+  },
+  "samples/marimba-real.json": {
+   "size": 405169,
+   "sha256": "408877a6ae4557ff3308294ce515239c8103043a75d5fb304b4bc5aac2adad7e"
+  },
+  "samples/music-box.json": {
+   "size": 430611,
+   "sha256": "6f169de280d44863c24c6c988dd313dc8dd8327627d2c376f37de701efec7537"
+  },
+  "samples/oboe.json": {
+   "size": 443671,
+   "sha256": "d363b7333396df94b3b1abd28f833e4195141e33aec28b750826958df7ab6fa2"
+  },
+  "samples/organ-church.json": {
+   "size": 852856,
+   "sha256": "cf3e0ff9287dd8cb191571ad423ff6dbc20e33411fd6a0e993a84554fa7ae59c"
+  },
+  "samples/organ-drawbar.json": {
+   "size": 715593,
+   "sha256": "1eb03c6d4282fe9f5c41d3c8138ca92eb828002c8da069c4e1e763bff83b73a6"
+  },
+  "samples/pan-flute.json": {
+   "size": 443675,
+   "sha256": "f9ce38fee7634da3db079afa002e5b7cce1078d40e3efd62a8a35d3da09915b5"
+  },
+  "samples/piano-bright.json": {
+   "size": 896807,
+   "sha256": "97cf5257e8338df181938523b45873a264a6c253af78d97ef198a83e024c8e1e"
+  },
+  "samples/piano-grand.json": {
+   "size": 896350,
+   "sha256": "7aba8b83bbc783580c3e08ce3a2fb0c0aba5715e228789fa3b20e5dd780f6a25"
+  },
+  "samples/piano-honky.json": {
+   "size": 892113,
+   "sha256": "aba43868f114262f7f09d42f839c5f8cbae648fee2351ba9d519994fa6878e9c"
+  },
+  "samples/piano-rhodes.json": {
+   "size": 631607,
+   "sha256": "f7616d63f6060ec06de9a4c7ef4ee92e1b413d731300ae6e5271fbe7566b6c83"
+  },
+  "samples/sax-alto.json": {
+   "size": 409551,
+   "sha256": "56e2bac3ba842b28f711605c3b482bb666a2c7499071883b40399bfbc33f1a5c"
+  },
+  "samples/strings-ensemble.json": {
+   "size": 819052,
+   "sha256": "02b7390d83579bee075d10ed830ed6381e37f99bc6c92c67accac60bf1af4aa6"
+  },
+  "samples/strings-pizzicato.json": {
+   "size": 562420,
+   "sha256": "db1a271c9cd0fda288490e20ce40a9eef932f8298cb89fe41489e8a7fccd81c5"
+  },
+  "samples/synth-pad.json": {
+   "size": 714412,
+   "sha256": "4ac678a07fcd1f5bd9ec0cc5bd5b84314d742e0de6e391bcc5ff8521122f8cda"
+  },
+  "samples/synth-saw.json": {
+   "size": 715701,
+   "sha256": "23ad8c3c11e51ddfa99b252625a508fee758dda3e930fe8fd559fe7c29d0144c"
+  },
+  "samples/taiko.json": {
+   "size": 175430,
+   "sha256": "9ad74c66b2de591ff42c0ed672e555754b2782553adacd543b6f46af6eb535ae"
+  },
+  "samples/trombone.json": {
+   "size": 381697,
+   "sha256": "b2958ff52663b10f66b62878b7348b4ce1189ea57092a3d9c7d04201e6805bd9"
+  },
+  "samples/trumpet.json": {
+   "size": 405244,
+   "sha256": "609afda6fd422606ccd3097c7aa96657273419a8cc48f0c1c93f41943b4a768d"
+  },
+  "samples/tubular-bells.json": {
+   "size": 355252,
+   "sha256": "f66720aad7da7e77b1e5a381d7063021de03f74c264267a4b094994b7c85bf8b"
+  },
+  "samples/vibraphone.json": {
+   "size": 369845,
+   "sha256": "2b1fca22ed02b6c551fb1e487d5b1478f05aa9bb22e9fa930c5da920e2833e84"
+  },
+  "samples/violin.json": {
+   "size": 580734,
+   "sha256": "a08d4b0ea8c0809b2c60d2b02aa4fd84a35dc3abb4f6080d236336e4f84db488"
+  },
+  "samples/voice-oohs.json": {
+   "size": 443676,
+   "sha256": "96b72a8b11f82ed48241d805f81d14118a32d5c23f1660775afbb00457935612"
+  },
+  "samples/xylophone.json": {
+   "size": 333993,
+   "sha256": "a3ac4bf0f315a899ec95009bb1dffe53f29b73d925a294b6a7d61f67ca89a1a2"
+  }
+ }
+}
