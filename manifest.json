@@ -1,25 +1,25 @@
 {
- "build": 1792741692,
- "version": "2026.10.23-2048",
- "date": "2026-10-23T07:48:12.652Z",
- "shell": 1,
+ "build": 1792742556,
+ "version": "2026.10.23-2102",
+ "date": "2026-10-23T08:02:36.270Z",
+ "shell": 2,
  "exeUrl": "https://github.com/Jimmy-brimm/MusicApp-updates/releases/latest/download/AMP.exe",
  "files": {
   "assets/index-BoBuI-F_.css": {
    "size": 60727,
    "sha256": "1518a7e5a792574fa91bc95bb43d830bfd7d130a6dfe8ed87e6759be53e00253"
   },
-  "assets/index-DC4GRy8D.js": {
-   "size": 521315,
-   "sha256": "12083b1446ea94ccc19c007b869ceb2f1a2ef43c00196afc58aa6422d0b8c361"
+  "assets/index-DjYY4Vnd.js": {
+   "size": 523908,
+   "sha256": "05a90e7dafabde519314134d12bf129958d538b710c1021e0aefbcff44cffa06"
   },
   "assets/lamejs-n-EL1vlk.js": {
    "size": 168881,
    "sha256": "46e9e0ccb23ee0d17ee1863aecbe2fbf74e54e25aa685310616a497c73073c7e"
   },
-  "assets/sync-Wv6ooot0.js": {
-   "size": 779564,
-   "sha256": "9d0b080e23a57749bd79fb06a29835437486ed49cffb05ae84abe6f990865fb1"
+  "assets/sync-DwSfEPPT.js": {
+   "size": 780053,
+   "sha256": "9dee0a166bb2c521c89fec1f2468de14f451028272d00bdd2400d814568d66b5"
   },
   "favicon.svg": {
    "size": 593,
@@ -27,7 +27,7 @@
   },
   "index.html": {
    "size": 934,
-   "sha256": "ec4c571512ce1a7e44b46c82d857f49141a6b0f129f774cdc2470dfb878e0748"
+   "sha256": "f54f826335fa21de83dea5cd860f4ba6a4a3ea9de71506c310c511614f96a966"
   },
   "samples/accordion.json": {
    "size": 648422,
